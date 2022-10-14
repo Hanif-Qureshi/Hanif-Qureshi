@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hanif-Qureshi
+- 👀 I’m interested in Android App Development and Python Programming
+- 🌱 I’m currently learning App Development
+- 📫 How to reach me @codewithqureshi on instagram
