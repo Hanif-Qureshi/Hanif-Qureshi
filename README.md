@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanif Qureshi</h1>
 <h3 align="center">A passionate Android Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanif-qureshi&label=Profile%20views&color=0e75b6&style=flat" alt="hanif-qureshi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hanif-qureshi&label=Profile%20views&color=0e75b6&style=flat" alt="hanif-qureshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanif-qureshi" alt="hanif-qureshi" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 💬 Ask me about **android , kotlin ,java, compose**
+- 💬 Ask me about **android, kotlin,java, compose**
 
 - 📫 How to reach me **iamhanifqureshi@gmail.com**
 
